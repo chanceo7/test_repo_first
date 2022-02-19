@@ -1,4 +1,4 @@
 console.log('first')
-console.log('secont')
+console.log('second')
 console.log('three')
 console.log('fourth')
